@@ -25,11 +25,17 @@ Preliminary signal analysis is made in the BIOPAC AcqKnowledge software. Advance
 The final team projects:
 
 * Project1: Cardiovascular Signal Analyzer
+
 	Digital filtering of a raw PPG signal
+	
 	Extraction of PH (pulse height) and PP (peak to peak) values from a filtered PPG signal	
+	
 	MAP estimation using PH
+	
 	Fourier transform of PP intervals and estimation of HF and LF
+	
 	Implementation in Matlab with an interactive GUI
+	
 * Project2: Nervous Activity Analyzer
 	Digital filtering of a raw EEG signal
 	Extraction of alpha, beta, theta, delta waves from a filtered EEG signal
