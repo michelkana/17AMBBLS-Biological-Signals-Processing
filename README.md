@@ -37,13 +37,18 @@ The final team projects:
 	Implementation in Matlab with an interactive GUI
 	
 * Project2: Nervous Activity Analyzer
+
 	Digital filtering of a raw EEG signal
+	
 	Extraction of alpha, beta, theta, delta waves from a filtered EEG signal
+	
 	Computation of STD, AVG and CC
+	
 	Implementation in Matlab with an interactive GUI
-* Project3: Project 3: Muscle Activity Analyzer
-	Digital filtering of a raw EMG signal
-	Computation of rectified EMG from a filtered EMG signal
-	Computation of the spectrum of the filtered EMG signal using Fourier transform
-	Computation of RMS, ARV
+	
+* Project3: Project 3: Muscle Activity Analyzer<br>
+	Digital filtering of a raw EMG signal<br>	
+	Computation of rectified EMG from a filtered EMG signal<br>	
+	Computation of the spectrum of the filtered EMG signal using Fourier transform<br>	
+	Computation of RMS, ARV<br>	
 	Implementation in Matlab with an interactive GUI
